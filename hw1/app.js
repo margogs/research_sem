@@ -14,7 +14,7 @@ const errorElement = document.getElementById("error-message");
 const apiTokenInput = document.getElementById("api-token");
 
 // Google Apps Script Web App URL 
-const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxusSzqB7ae0-wl-XJoDzBoq1pqM8PrQZ4c_1Nl49GdjuU6-NVVyBdGnMsWa3JqJ94v/exec';
+const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwPgv1ziO6hxb2YK5SYYKHQ0uMSYPWmF2vB5-OBQK6NJWV9udaC2bQNDRAqwacKFJXR/exec';
 
 // Initialize the app
 document.addEventListener("DOMContentLoaded", function () {
