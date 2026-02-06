@@ -13,8 +13,8 @@ const loadingElement = document.querySelector(".loading");
 const errorElement = document.getElementById("error-message");
 const apiTokenInput = document.getElementById("api-token");
 
-// Google Apps Script Web App URL (ЗАМЕНИТЕ НА ВАШ URL)
-const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbz39lQ0ePJZP7VVvQqHujR2d_8S9iXQaHr4lGpJw/exec';
+// Google Apps Script Web App URL 
+const GOOGLE_SCRIPT_URL = 'https://docs.google.com/spreadsheets/d/1ZvPFJREKH3vFISTAMHOhyT1rGZxZgp9loLq2pj7rW7s/edit?gid=0#gid=0';
 
 // Initialize the app
 document.addEventListener("DOMContentLoaded", function () {
